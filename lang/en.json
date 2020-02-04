@@ -1,0 +1,23 @@
+{
+  "common": {
+    "Log In": "Log In",
+    "Sign Up": "Sign Up",
+    "Email": "Email",
+    "Password": "Password",
+    "Name": "Name",
+    "Phone": "Phone",
+    "searchPlaceholder": "Busca lo que quieras"
+  },
+  "Auth": {
+    "not_registered_yet": "Not Registered Yet? Go to Registration",
+    "already_registered": "Already Registered? Go to Log In",
+    "forgot_password": "Forgot your password?"
+  },
+  "HomeScreen": {
+    "searchPlaceholder": "Search for anything",
+    "viewAll": "View All"
+  },
+  "Sidebar": {
+    "terms_and_conditions": "Terms & Conditions"
+  }
+}

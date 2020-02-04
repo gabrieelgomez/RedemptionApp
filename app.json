@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "extra": {
+      "absVersion": "1.2.5"
+    },
+    "name": "Loyalty",
+    "slug": "loyalty",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.2.5",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "alianzamonterrico",
+      "buildNumber": "1"
+    },
+    "android": {
+      "versionCode": 2,
+      "package": "com.devtech.loyalty",
+      "permissions": [
+        "CAMERA",
+        "CAMERA_ROLL",
+        "MANAGE_DOCUMENTS",
+        "READ_INTERNAL_STORAGE",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "packagerOpts": {
+      "config": "metro.config.js"
+    },
+    "description": ""
+  }
+}

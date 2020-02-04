@@ -1,0 +1,23 @@
+{
+  "common": {
+    "Log In": "Iniciar Sesión",
+    "Sign Up": "Registro",
+    "Email": "Correo Electrónico",
+    "Password": "Contraseña",
+    "Name": "Nombre",
+    "Phone": "Teléfono",
+    "searchPlaceholder": "Busca lo que quieras"
+  },
+  "Auth": {
+    "not_registered_yet": "No tiene una cuenta? Ir a Registro",
+    "already_registered": "Ya tiene una cuenta? Ir a Iniciar Sesión",
+    "forgot_password": "Olvidó su contraseña?"
+  },
+  "HomeScreen": {
+    "searchPlaceholder": "Busca lo que quieras",
+    "viewAll": "Ver Todos"
+  },
+  "Sidebar": {
+    "terms_and_conditions": "Términos y Condiciones"
+  }
+}
